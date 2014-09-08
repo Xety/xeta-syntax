@@ -1,7 +1,7 @@
 {
   "name": "xeta-syntax",
   "theme": "syntax",
-  "version": "0.3.1",
+  "version": "0.3.2",
   "description": "A custom syntax theme based on Peacock theme for PHP, HTML, CSS, SCSS, LESS, JavaScript, JSON, YAML and Markdown.",
   "repository": "https://github.com/Xety/xeta-syntax",
   "license": "MIT",
