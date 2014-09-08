@@ -1,0 +1,11 @@
+{
+  "name": "xeta-syntax",
+  "theme": "syntax",
+  "version": "0.1.0",
+  "description": "A custom syntax theme based on Peacock theme for PHP, HTML, CSS, SCSS, LESS, JavaScript, JSON, YAML and Markdown.",
+  "repository": "https://github.com/Xety/Xeta-Syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.50.0"
+  }
+}
