@@ -25,3 +25,6 @@ Go to `File > Settings > Themes`, search `Xeta Syntax` and click on `Install`. N
 
 # Todo
 Add Java, CoffeeScript, C++, Objective-C, Perl.
+
+# Information
+The UI theme in the screenshots is the awesome [Predawn UI](https://atom.io/themes/predawn-ui) theme with the [File Icon](https://atom.io/packages/file-icons) package.
