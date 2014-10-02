@@ -1,6 +1,6 @@
 # Xeta Syntax Theme for Atom
 
-My personal syntax theme for PHP, HTML, CSS, SCSS, LESS, JavaScript, JSON, YAML, Markdown, Python, Ruby, SQL and XML. This theme is based on the awesome Peacock Theme for SublimeText but with some customization for my needs.
+My personal syntax theme for PHP, HTML, CSS, SCSS, LESS, JavaScript, JSON, YAML, Markdown, Python, Ruby, SQL, CoffeeScript and XML. This theme is based on the awesome Peacock Theme for SublimeText but with some customization for my needs.
 
 # Installation
 Go to `File > Settings > Themes`, search `Xeta Syntax` and click on `Install`. Now, in the `Syntax Theme` dropdown, select `Xeta`.
@@ -24,7 +24,7 @@ Go to `File > Settings > Themes`, search `Xeta Syntax` and click on `Install`. N
 
 
 # Todo
-Add Java, CoffeeScript, C++, Objective-C, Perl.
+Add Java, C++, Objective-C, Perl.
 
 # Information
 The UI theme in the screenshots is the awesome [Predawn UI](https://atom.io/themes/predawn-ui) theme with the [File Icon](https://atom.io/packages/file-icons) package.

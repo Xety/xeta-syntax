@@ -1,3 +1,6 @@
+## 0.5.0 - Added languages
+Added CoffeeScript
+
 ## 0.4.1 - Fixed Readme
 Fixed Readme + package.json.
 
